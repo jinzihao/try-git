@@ -4,4 +4,4 @@ cgcgbcbc's log
 -----
 试验内容:从fork项目直接push到原项目,在对原项目有写权限时,是open a pull request(即和没有写权限一样),还是直接push到原项目上了.
 
-Hello world! --jinzihao
+Hello world!
